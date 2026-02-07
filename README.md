@@ -108,17 +108,18 @@ This class acts as the **system controller** and manages all lists.
 
 ## 🖥️ Console Menu
 
-The application runs with a menu like this:
+## 🖥️ Console Menu Options
 
-  A. Add Student (starts with empty course list)
-  B. Add Instructor
-  C. Add Course (select instructor by ID)
-  D. Enroll Student in Course
-  E. Show All Students
-  F. Show All Courses
-  G. Show All Instructors
-  H. Find Student by ID or Name
-  I. Find Course by ID or Name
-  J. Exit
-  K. Check if the student enrolled in specific course 
-  L. Enroll Instructor to course
+A. Add Student   
+B. Add Instructor  
+C. Add Course 
+D. Enroll Student in Course  
+E. Show All Students  
+F. Show All Courses  
+G. Show All Instructors  
+H. Find Student by ID or Name  
+I. Find Course by ID or Name  
+J. Exit  
+K. Check if the student is enrolled in a specific course  
+L. Enroll Instructor to Course  
+
